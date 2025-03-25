@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21dbc24f-70d3-43b0-bdf6-3f503ae7effd" name="Changes" comment="Добавлена AppVeyor">
-      <change afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
+    <list default="true" id="090d55dd-f260-4af2-a851-63665ee6e7b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,16 +147,35 @@
       <option name="project" value="LOCAL" />
       <updated>1742889963032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавлен конфиг для AppVeyor&#10;&#10;(cherry picked from commit e46f9c48b76536e6f930bd52bbefa6120aa482b8)">
+      <created>1742901643455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742901643455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="rename repo" />
     <MESSAGE value="Добавлена AppVeyor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена AppVeyor" />
+    <MESSAGE value="Добавлен конфиг для AppVeyor&#10;&#10;(cherry picked from commit e46f9c48b76536e6f930bd52bbefa6120aa482b8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен конфиг для AppVeyor&#10;&#10;(cherry picked from commit e46f9c48b76536e6f930bd52bbefa6120aa482b8)" />
   </component>
 </project>
