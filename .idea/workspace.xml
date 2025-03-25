@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="21dbc24f-70d3-43b0-bdf6-3f503ae7effd" name="Changes" comment="Подтянуты изменения из удаленного репозитория">
     <list default="true" id="090d55dd-f260-4af2-a851-63665ee6e7b3" name="Changes" comment="обновление">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,6 +47,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+    <option name="UPDATE_TYPE" value="REBASE" />
+>>>>>>> master
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -167,12 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742889963032</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="Добавлен конфиг для AppVeyor&#10;&#10;(cherry picked from commit e46f9c48b76536e6f930bd52bbefa6120aa482b8)">
       <created>1742901643455</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1742901643455</updated>
+=======
+    <task id="LOCAL-00004" summary="Добавлена AppVeyor конфиг">
+      <created>1742906318534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742906318534</updated>
+>>>>>>> master
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
@@ -185,7 +199,23 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+>>>>>>> master
           </value>
         </entry>
       </map>
@@ -195,7 +225,13 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="rename repo" />
     <MESSAGE value="Добавлена AppVeyor" />
+<<<<<<< HEAD
     <MESSAGE value="Добавлен конфиг для AppVeyor&#10;&#10;(cherry picked from commit e46f9c48b76536e6f930bd52bbefa6120aa482b8)" />
     <option name="LAST_COMMIT_MESSAGE" value="Добавлен конфиг для AppVeyor&#10;&#10;(cherry picked from commit e46f9c48b76536e6f930bd52bbefa6120aa482b8)" />
+=======
+    <MESSAGE value="Добавлена AppVeyor конфиг" />
+    <MESSAGE value="Подтянуты изменения из удаленного репозитория" />
+    <option name="LAST_COMMIT_MESSAGE" value="Подтянуты изменения из удаленного репозитория" />
+>>>>>>> master
   </component>
 </project>
